@@ -1,0 +1,9 @@
+apple,sib
+tree,derakht
+i,man
+this,in
+is,hast
+HarryPotter,HarryPotter
+book,ketab
+like,doost dashtan
+that,an
